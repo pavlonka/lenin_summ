@@ -29,8 +29,7 @@ pip install python-telegram-bot transformers torch
 
 ### 4. Настройте переменные окружения
 
-Вставьте токен прямо в код файла summ bot.py (в переменную `TELEGRAM_TOKEN`).  
-**Рекомендуется** использовать переменные окружения:
+Вставьте токен прямо в код файла summ bot.py (в переменную `TELEGRAM_TOKEN`):
 
 ```env
 TELEGRAM_TOKEN=ваш_токен_бота
