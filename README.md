@@ -13,7 +13,6 @@
 
 ```bash
 git clone https://github.com/pavlonka/lenin_summ
-cd telegram-summarization-bot
 ```
 
 ### 2. Установите зависимости
